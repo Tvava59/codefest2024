@@ -1,0 +1,41 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4999569107281,25.03623795545631 ]
+    },
+    "properties": {
+    "行政區":"萬華區",
+    "名稱":"艋舺公園",
+    "地址":"台北市萬華區廣州街西園路交叉口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51379291072855,25.04910185054564 ]
+    },
+    "properties": {
+    "行政區":"中正區",
+    "名稱":"台北車站",
+    "地址":"台北市中正區鄭州路8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50614976062307,25.046880155657846 ]
+    },
+    "properties": {
+    "行政區":"萬華區",
+    "名稱":"福星公園",
+    "地址":"台北市萬華區昆明街& 漢口街二段"
+    }
+  }
+]
+}

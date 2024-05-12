@@ -1,0 +1,137 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5394051,25.0615386 ]
+    },
+    "properties": {
+    "機構名稱":"中山社會福利服務中心",
+    "地址":"臺北市中山區合江街137號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5151127,25.0660605 ]
+    },
+    "properties": {
+    "機構名稱":"大同社會福利服務中心",
+    "地址":"臺北市大同區昌吉街57號6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "機構名稱":"中正社會福利服務中心",
+    "地址":"臺北市中正區延平南路207號6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4974138,25.037353 ]
+    },
+    "properties": {
+    "機構名稱":"萬華社會福利服務中心",
+    "地址":"臺北市萬華區梧州街36號5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5458646,25.026519 ]
+    },
+    "properties": {
+    "機構名稱":"大安社會福利服務中心",
+    "地址":"臺北市大安區四維路198巷30弄5號2樓之9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5513932,25.001537 ]
+    },
+    "properties": {
+    "機構名稱":"文山社會福利服務中心",
+    "地址":"臺北市文山區興隆路二段160號6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5627777,25.0594724 ]
+    },
+    "properties": {
+    "機構名稱":"松山社會福利服務中心",
+    "地址":"臺北市松山區民生東路五段163-1號9樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5827597,25.0390014 ]
+    },
+    "properties": {
+    "機構名稱":"信義社會福利服務中心",
+    "地址":"臺北市信義區大道路116號5樓之2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.596101,25.0811491 ]
+    },
+    "properties": {
+    "機構名稱":"內湖社會福利服務中心",
+    "地址":"臺北市內湖區星雲街161巷3號4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6079597,25.0537317 ]
+    },
+    "properties": {
+    "機構名稱":"南港社會福利服務中心",
+    "地址":"臺北市南港區市民大道八段367號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5225964,25.0887283 ]
+    },
+    "properties": {
+    "機構名稱":"士林社會福利服務中心",
+    "地址":"臺北市士林區基河路140號1樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5029288,25.1323774 ]
+    },
+    "properties": {
+    "機構名稱":"北投社會福利服務中心",
+    "地址":"臺北市北投區新市街30號5樓"
+    }
+  }
+]
+}

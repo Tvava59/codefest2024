@@ -1,0 +1,137 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5013897,25.0334657 ]
+    },
+    "properties": {
+    "名稱":"艋舺就業服務站",
+    "地址":"臺北市萬華區艋舺大道101號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5053113,25.044058 ]
+    },
+    "properties": {
+    "名稱":"西門就業服務站",
+    "地址":"臺北市萬華區峨眉街81號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5029288,25.1323774 ]
+    },
+    "properties": {
+    "名稱":"北投就業服務站",
+    "地址":"臺北市北投區新市街30號5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5407676,24.9921264 ]
+    },
+    "properties": {
+    "名稱":"景美就業服務站",
+    "地址":"臺北市文山區羅斯福路6段393號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6044475,25.0545017 ]
+    },
+    "properties": {
+    "名稱":"南港東明青銀就業服務站",
+    "地址":"臺北市南港區南港路二段60巷19號1樓及2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5890863,25.0693188 ]
+    },
+    "properties": {
+    "名稱":"內湖就業服務站",
+    "地址":"臺北市內湖區民權東路6段99號7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5821688,25.0378141 ]
+    },
+    "properties": {
+    "名稱":"信義就業服務站",
+    "地址":"臺北市信義區福德街86號8樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.494832,25.0356424 ]
+    },
+    "properties": {
+    "名稱":"萬華服務臺",
+    "地址":"臺北市萬華區和平西路三段251號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5407676,24.9921264 ]
+    },
+    "properties": {
+    "名稱":"個案管理資源站",
+    "地址":"臺北市文山區羅斯福路6段393號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.522243,25.039112 ]
+    },
+    "properties": {
+    "名稱":"臺北青年職涯發展中心",
+    "地址":"臺北市中正區仁愛路1段17號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6036432,25.0544109 ]
+    },
+    "properties": {
+    "名稱":"南港銀髮人才服務據點",
+    "地址":"臺北市南港區南港路二段60巷18號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5492043,25.0004841 ]
+    },
+    "properties": {
+    "名稱":"文山銀髮人才服務據點",
+    "地址":"臺北市文山區興隆路二段88號2樓"
+    }
+  }
+]
+}
